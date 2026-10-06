@@ -1,0 +1,6 @@
+api
+dev
+test
+staging
+admin
+vpn
